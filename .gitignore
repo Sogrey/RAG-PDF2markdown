@@ -51,14 +51,6 @@ venv-py311/
 *.swp
 *.swo
 
-# Output files
-*.pdf
-*.png
-*.jpg
-*.jpeg
-*.md
-!README.md
-
 # Local development files
 local_settings.py
 settings.ini
